@@ -1,15 +1,15 @@
-# 🗃 Clima do Tempo
+# ☀ Previsão do tempo
 
-Um aplicativo de anotações para web.
+Um aplicativo para ajudar você a encontrar o clima de sua cidade.
 
 ## ℹ Sobre o projeto
 
-Um projeto para o usuário pode anotar suas notas, tarefas, etc... E a data de vencimento delas. Ainda pode filtrar por tarefas completas, ativas ou vencidas. E ordernar por primeiras adicionadas, e ultimas adicionadas.
+Um projeto para o usuário digitar a cidade  e o aplicativo retornará o clima do tempo da cidade.
 
 ## ✨ Demonstração
 
 Veja abaixo um gif do projeto.</br>
-[![Image from Gyazo](https://i.gyazo.com/66ead408901b9f9afccc5257c7ce1b80.gif)](https://gyazo.com/66ead408901b9f9afccc5257c7ce1b80)
+[![Image from Gyazo](https://i.gyazo.com/b8472bfbfec2aeb8fe842a4c4dc70132.gif)](https://gyazo.com/b8472bfbfec2aeb8fe842a4c4dc70132)
 
 ## 🎯 Objetivo do projeto
 
