@@ -4,7 +4,7 @@ Um aplicativo para ajudar você a encontrar o clima de sua cidade.
 
 ## ℹ Sobre o projeto
 
-Um projeto para o usuário digitar a cidade  e o aplicativo retornará o clima do tempo da cidade.
+Um projeto para o usuário digitar a cidade e o aplicativo vai retornar o clima do tempo da cidade.
 
 ## ✨ Demonstração
 
